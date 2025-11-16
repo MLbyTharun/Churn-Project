@@ -1,5 +1,8 @@
 📞 Telecom Customer Churn Prediction
+
 End-to-End Machine Learning Project
+
+
 📌 Project Overview
 
 This project predicts customer churn for a telecom company using machine learning.
